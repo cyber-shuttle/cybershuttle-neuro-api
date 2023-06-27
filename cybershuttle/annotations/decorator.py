@@ -9,7 +9,7 @@ from ipywidgets import widgets
 from IPython.display import display
 
 
-class BMTKv1run(object):
+class CybershuttleHPCRun(object):
 
     def __init__(self, output='./'):
         configFile = "./settings.ini"
